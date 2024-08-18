@@ -2,7 +2,7 @@ import React from 'react'
 
 const WelcomeSection = () => {
     return (
-        <section className=" h-screen flex items-center justify-center  font-serif ">
+        <section className=" h-screen lex items-center justify-center  font-serif ">
             <div className="text-center">
                 <h1 className="text-black m-7 font-semibold text-2xl md:text-4xl">
                     Hey Pokemon Lover, Welcome to the universe of Pokemons!! </h1>
